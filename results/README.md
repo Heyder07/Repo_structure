@@ -1,1 +1,1 @@
-Creacion de carpeta de resultados
+Carpeta con bases de datos limpias y analizadas
