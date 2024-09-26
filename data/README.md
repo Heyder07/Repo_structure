@@ -1,1 +1,1 @@
-Creación de carpeta data
+Carpeta con bases de datos originales
